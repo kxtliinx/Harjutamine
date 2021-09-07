@@ -1,2 +1,3 @@
 Github on veebipõhine Giti hoidla teenus, kus mitu inimest saavad teha muutuseid samal ajal, mis lubab teha sama aegset koostööd.
 Githubi kasutavad suured firmad, nagu Netflix, Reddit, Airbnb jms.
+Mina saan Githubi kasutada edasi peamiselt kooli jaoks, kuna see on väga suureks abiks just sama aegsete muutuste pärast. 
