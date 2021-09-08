@@ -1,0 +1,15 @@
+Kätliin Arak MM-21
+
+windows + e
+
+Avage File Explorer ja valige fail, mille soovite sildistada.
+Paani Üksikasjad avamiseks klõpsake vahekaardil Vaade jaotises Paanid nuppu Üksikasjad.
+Sisestage sobivad sildid (joonis F).
+Klõpsake nuppu Salvesta.
+
+control + c
+
+vajutad selle peale ja siis vajtuda klaviatuuril delete nuppu.
+
+Kaustast mitme faili valimiseks operatsioonisüsteemis Windows 10 kasutage klahvi Shift ja valige esimene ja viimane fail kogu vahemiku otsast, mida soovite valida. Kui soovite oma töölaualt Windows 10 -s mitu faili valida, hoidke iga faili klõpsamisel all klahvi Ctrl, kuni kõik on valitud.
+Üks võimalus on, et sa valid need filed mida sa tahad liikutada ja siis tõstad need enda kausta. Teine cõimalus on kopeerida filed ühest kaustast teise.
